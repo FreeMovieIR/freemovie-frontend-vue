@@ -111,5 +111,4 @@ The UI is built with a mobile-first approach, ensuring a great user experience o
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🤝 Contributing
-
-Contributions are welcome! Feel free to submit a pull request or open an issue.
+- SohSeyedi(https://github.com/sohseyedi-web)
