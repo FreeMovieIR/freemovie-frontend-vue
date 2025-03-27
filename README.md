@@ -113,3 +113,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit a pull request or open an issue.
+
+- ![SohSeyedi](https://avatars.githubusercontent.com/u/73787882?v=4) [SohSeyedi](https://github.com/sohseyedi-web)
