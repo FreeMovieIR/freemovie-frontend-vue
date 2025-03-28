@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "Vazir";
-  src: url("@/assets/fonts/vazir/Vazirmatn-Black.woff2") format("woff2"),
-    url("@/assets/fonts/vazir/Vazirmatn-Bold.woff2") format("woff2"),
-    url("@/assets/fonts/vazir/Vazirmatn-ExtraBold.woff2") format("woff2"),
-    url("@/assets/fonts/vazir/Vazirmatn-Medium.woff2") format("woff2"),
-    url("@/assets/fonts/vazir/Vazirmatn-Regular.woff2") format("woff2");
+  src: url("./assets/fonts/vazir/Vazirmatn-Black.woff2") format("woff2"),
+    url("./assets/fonts/vazir/Vazirmatn-Bold.woff2") format("woff2"),
+    url("./assets/fonts/vazir/Vazirmatn-ExtraBold.woff2") format("woff2"),
+    url("./assets/fonts/vazir/Vazirmatn-Medium.woff2") format("woff2"),
+    url("./assets/fonts/vazir/Vazirmatn-Regular.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
