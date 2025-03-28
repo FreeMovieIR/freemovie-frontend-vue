@@ -3,7 +3,7 @@ import vue from "@vitejs/plugin-vue";
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/freemovie-frontend-vue/",
+  base: '/freemovie-frontend-vue/',
   plugins: [vue()],
   resolve: {
     alias: {
